@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/data-center-cooling-energy-boundary-explainer/
 
+Repository: https://github.com/mizcausevic-dev/data-center-cooling-energy-boundary-explainer
+
 ## What this is
 
 An interactive anatomy plate for Data-Center Cooling Energy Boundary. Play, scrub, or jump the five stages. The same frame always draws the same picture.
